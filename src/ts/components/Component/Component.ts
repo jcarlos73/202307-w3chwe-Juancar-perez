@@ -1,4 +1,4 @@
-import { type PokemonStructure } from "../../../types";
+import { type PokemonStructure } from "../types.js";
 
 class Component implements PokemonStructure {
   element: Element;
